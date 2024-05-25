@@ -2,7 +2,7 @@ import getFormattedDate from "@/lib/getFormattedData";
 import Link from "next/link";
 
 type Props = {
-  post: BlogPost;
+  post: Meta;
 };
 
 export const ListItem = ({ post }: Props) => {
