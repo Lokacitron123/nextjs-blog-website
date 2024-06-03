@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a blog application built with Next.js 14, utilizing MDX for markdown file support. The project is styled using TailwindCSS and leverages several plugins for enhanced markdown reading and highlighting. This project serves as an exploration of using MDX as a method for blogging instead of using a CMS like Sanity, aiming to learn the flexibility and simplicity of MDX for content management in smaller a smaller application.
+This is a blog application built with Next.js 14, utilizing MDX for markdown file support. The project is styled using TailwindCSS and leverages several plugins for enhanced markdown reading and highlighting. This project serves as an exploration of using MDX as a method for blogging instead of using a CMS like Sanity, aiming to learn the flexibility and simplicity of MDX for content management in a smaller application.
 
 ## Features
 
